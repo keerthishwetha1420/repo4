@@ -1,0 +1,10 @@
+#!/bin/bash
+ProductName="LED TV"
+Quantities=1
+TotalPrice=45000
+PlaceToDis="Bangalore"
+
+echo "The Product Name: $ProductName"
+echo "The No of Quantities: $Quantities"
+echo "The product total price: $TotalPrice"
+echo "The place to dispatch: $PlaceToDis"
