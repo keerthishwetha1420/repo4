@@ -1,0 +1,13 @@
+#!/bin/bash
+emp_name="ashok"
+emp_num=23423
+emp_designation="devops"
+emp_loc="bangalore"
+emp_ctc="4LPA"
+
+echo "employee details are:"
+echo "Name of the employee: $emp_name"
+echo "the employee office number: $emp_num"
+echo "designation of the employee: $emp_designation"
+echo "the employee location: $emp_loc"
+echo "The employee ctc: $emp_ctc"
